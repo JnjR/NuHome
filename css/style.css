@@ -1,0 +1,109 @@
+body {
+  font-family: Georgia;
+  line-height: 1.5;
+  font-size: 120%;
+  font-weight: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  letter-spacing: 1px;
+	color: #f1f4f2;
+
+	background: url('../images/home.jpg');
+  /* Full Page Background */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+section {
+  margin: 0 auto;
+}
+
+.container {
+  width: 600px;
+  padding: 15px;
+  margin-top: 150px;
+  margin-left: 60px;
+}
+
+#logo {
+  margin-bottom: -10px;
+  margin-top: -15px;
+  margin-left: -45px;
+}
+
+section {
+  background-color: rgba(78, 68, 58, .7);
+  padding: 1px 15px;
+}
+
+h1 {
+  margin-top: -70px;
+  margin-left: 165px;
+  font-family: Verdana; 
+	font-size: 29px;
+  line-height: 38px;
+  font-weight: bold;
+}
+
+h1:hover {
+  color: #e77d14;
+}
+
+strong {
+  font-family: Verdana;
+}
+
+strong:hover {
+  color: #e77d14;
+}
+
+a {
+	text-decoration: none;
+  color: #e77d14;
+}
+
+a:hover {
+  color: #e77d14;
+  font-weight: bold;
+  font-family: Verdana;
+}
+
+ul {
+  margin: 15px 0;
+  padding: 0;
+  margin-left: 75px;
+}
+
+#contact {
+  width: 550px;
+  margin-top: 0px;
+}
+
+.cta-mail {
+  color:#fff;
+  background-color:#e77d14;
+  /*background-image:url(/assets/img/bg.png);*/
+  padding-top: 15px;
+  padding-left: 15px;
+  border-radius: 5px;
+}
+
+#mc-embedded-subscribe {
+  margin-left: 25px;
+  margin-bottom: 10px;
+}
+
+footer img {
+  width: 50px;
+  margin-bottom: 15px;
+}
+
+footer img:hover {
+  width: 60px
+}
+
+footer p {
+  display: inline;
+}
+
